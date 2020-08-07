@@ -1,7 +1,7 @@
 import React from "react";
 
 import "./Home.css";
-import AmazonImage from "./images/amazon_banner.jpg";
+import AmazonImage from "./images/amazon_banner_uk.jpg";
 
 import TheLeanSturtup from "./images/the_lean_startup.jpg";
 import Pool from "./images/pool.jpg";
